@@ -1,0 +1,23 @@
+Bienvenidos al primer Quiz  de la materia de desarrollo web
+
+Instrucciones:
+1. Clonar repositorio
+2. Crear una rama de tipo feature con su nombre, como se muestra
+   en esta de ejemplo --> feature/juan-zamorano
+3. Se deben pasar a esta rama que acaban de crear y una vez en ella
+   en el archivo nombres.txt deberan poner su nombre en la parte que se 
+   indica.
+4. Una vez incluyan su nombre deberán hacer un commit, actualizar su proyecto
+   local con los cambios que hay en el repo remoto, resolver conflictos en caso de que 
+   los tuviese y hacer un push en la rama en la que se encuentran, 
+   encuentran parados --> feature/nombre-estudiante. 
+
+   **RETO** 
+   Cuando esten en la parte final del punto 4 lo mas seguro es que salga un error, 
+   respire, no se asuste y lea lo que le dice la consola, trate de entenderlo, en caso 
+   de estar muy perdido vaya al navgador, investigue y solucione.
+
+   Cuando logre hacer el push exitoso en su rama me puede llamar para crear el PR.
+
+   ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
+Yoimar Alexis Moreno Gutierrez
