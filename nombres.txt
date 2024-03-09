@@ -22,5 +22,10 @@ Instrucciones:
    ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
 Yoimar Alexis Moreno Gutierrez
 MAJBUAHVDF
+<<<<<<< HEAD
+SAPO perro
+Ojito
+=======
 Ojito
 Kaijudo
+>>>>>>> 7769bf0d08d3abf8fa4347118c91ad19792ede78
